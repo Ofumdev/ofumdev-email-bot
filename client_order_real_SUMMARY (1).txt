@@ -1,0 +1,9 @@
+OFUMDEV DATA SUMMARY REPORT
+File: client_order_real.xlsx
+Rows processed: 5
+Total amount: $1875
+Unique emails: 5
+Bad emails fixed: 0
+Database-ready: YES
+Validation: PASSED
+Delivered by: OfumDev - Premium Data Service
